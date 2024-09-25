@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on arios projetos
 - 📫 How to reach me through my profile
 - 😄 Pronouns: he e him
-- ⚡ Fun fact:To learn how to develop software
+- ⚡ Fun fact:Learn how to develop software
 
 <!---
 Fael0017/Fael0017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

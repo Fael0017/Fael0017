@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning basic programming
 - 💞️ I’m looking to collaborate on arios projetos
 - 📫 How to reach me through my profile
-- 😄 Pronouns: Her/him
+- 😄 Pronouns: He/him
 - ⚡ Fun fact:Learn how to develop software
 
 <!---
